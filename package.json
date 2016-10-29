@@ -1,0 +1,21 @@
+{
+	"name": "fis-deploy-replace-packedpath",
+	"version": "1.0.0",
+	"description": "Replace require path for packager file",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/xitingwang/fis-deploy-replace-packedpath.git"
+	},
+	"keywords": [
+		"fis", "fis3", "deploy", "packto",
+		"replace"
+	],
+	"dependencies": {
+	},
+	"author": "dw_wangchao1 <wangchao1@yy.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/xitingwang/fis-deploy-replace-packedpath/issues"
+	}
+}
